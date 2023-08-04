@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: grey;
+    justify-content: space-around;
+    align-items: center;
+    .logo{
+        height: 80px;
+        width: 15%;
+        background-color: yellow;
+    }
+    menu{
+        height: 80px;
+        width: 40%;
+        background-color:greenyellow;
+
+    }
+    nav{
+        height: 100px;
+        width: 100%;
+       
+    }
+    }
+    ul{
+        height: 100px;
+        width: 100%;
+        margin: 0;
+        list-style-type: none;
+        background-color: violet;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+       
+    .auth{
+        height: 80px;
+        width: 20%;
+        background-color:tomato;
+    }
+}
